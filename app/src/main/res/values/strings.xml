@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LooPogoda</string>
+    <string name="api_addres">https://api.openweathermap.org/data/2.5/forecast?appid=9016decf7aa4cd713694d7df49f63100&amp;lang=pl&amp;units=metric&amp;q=</string>
+    <string name="default_city">Gliwice</string>
+    <string name="button_text">Sprawdź</string>
+    <string name="city_name">Nazwa miasta</string>
+    <string name="temp">Temp</string>
+    <string name="temp_max">Max</string>
+    <string name="temp_min">Min</string>
+    <string name="pressure">Ciśnienie</string>
+    <string name="wind">Wiatr</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="back">↶</string>
+</resources>
